@@ -7,7 +7,7 @@ Course lectures: http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/python-kur
 
 Unterrichtseinheiten (45 Min.): 40 UE
 
-###############
+##########################################################################################
 
 February 7.
 Started new course:
@@ -16,3 +16,5 @@ Started new course:
 Cource lectures: https://linuxacademy.com/cp/modules/view/id/311
 
 Length: 15:41:36
+
+##########################################################################################
