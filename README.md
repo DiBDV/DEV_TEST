@@ -1,7 +1,7 @@
 ## DEV_TEST
 
 - January 27 - 31.
-Finished Bildungsurlaub (VHS Pankov).
+- Finished Bildungsurlaub (VHS Pankov): "Python-Programmierung".
 
 Course lectures: http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/python-kurs
 
@@ -10,7 +10,7 @@ Unterrichtseinheiten (45 Min.): 40 UE
 ##########################################################################################
 
 - February 7.
-Started new course:
+- Started new course:
 "Introduction to Python Development"
 
 Cource lectures: https://linuxacademy.com/cp/modules/view/id/311
